@@ -1,0 +1,10 @@
+-- usuário: nome,rotinas[] +++
+
+-- rontinas:
+
+-- rotina: segunda{tarefas},terça{...},quarta{..},quinta{.},sexta{},sabado{},domingo{}
+-- DiaSemana: (obs:tarefas limitados até 10 Adicionar)
+-- tarefas: tarefa{} 10x min
+-- tarefa: NomeTarefa,ImportanciaDaTarefa,HorarioDaTarefa
+
+OBS:(Salvar local storage html js )
